@@ -1,3 +1,6 @@
+/**
+Exercise 2.2
+**/
 public class Data // class
 {
     public static void main(String[] args) // method
