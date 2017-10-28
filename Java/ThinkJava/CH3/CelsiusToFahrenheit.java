@@ -1,3 +1,5 @@
+// Exercise 3.2 Solution
+
 import java.util.Scanner;
 
 public class CelsiusToFahrenheit
