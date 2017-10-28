@@ -1,3 +1,5 @@
+// Exercise 3.4 Solution
+
 import java.util.Random;
 import java.util.Scanner;
 
