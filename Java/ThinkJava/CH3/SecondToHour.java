@@ -1,3 +1,5 @@
+// Exercise 3.3 Solution
+
 import java.util.Scanner;
 
 public class SecondToHour
